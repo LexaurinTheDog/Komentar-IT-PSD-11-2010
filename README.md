@@ -16,7 +16,7 @@ Vedi [INDEX.md](INDEX.md). La descrizione del metodo si trova in [00-introduzion
 
 ## Metodo
 
-Il commento è stato redatto **esclusivamente sulla base di materiali locali** (testo ufficiale consolidato tratto da Normattiva e relativi metadati), senza l'uso di banche dati giuridiche commerciali. Il testo delle disposizioni è riprodotto letteralmente ed estratto in modo automatico dalla fonte. **La giurisprudenza non fa parte di questa versione** e sarà aggiunta in una fase successiva; non sono citate massime né letteratura. Altri atti normativi sono citati con i loro estremi solo quando sono richiamati dal testo del decreto o dalle note e dai metadati della fonte. Per l'art. 34-decies il testo consolidato della fonte riporta soltanto la rubrica: la lacuna è segnalata nel relativo commento.
+Il commento è stato redatto **esclusivamente sulla base di materiali locali** (testo ufficiale consolidato tratto da Normattiva e relativi metadati), senza l'uso di banche dati giuridiche commerciali. Il testo delle disposizioni è riprodotto letteralmente ed estratto in modo automatico dalla fonte. **La giurisprudenza non fa parte di questa versione** e sarà aggiunta in una fase successiva; non sono citate massime né letteratura. Altri atti normativi sono citati con i loro estremi solo quando sono richiamati dal testo del decreto o dalle note e dai metadati della fonte. Per l'art. 34-decies il comma unico, che l'esportazione XML di Normattiva riporta solo nei metadati delle modifiche testuali, è stato ricollocato automaticamente nel corpo dell'articolo in fase di acquisizione della fonte.
 
 ## Licenza
 
